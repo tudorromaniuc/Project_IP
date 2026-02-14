@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736960091 source:c:\facultate\ip\e3_derivare_grigorciuc irina_romaniuc tudor\main.cpp
+	<graphics.h>
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<stdio.h>
+

@@ -1,0 +1,13 @@
+titlu=Aplicatie pentru derivarea functiilor
+instructiuni=Introduceti functia de la tastatura in campul de mai jos, apoi apasati 'Confirm'.
+buton_confirm=Confirm
+buton_inapoi=Inapoi
+buton_limba=Schimba Limba
+buton_postfix=Forma postfixata
+buton_originaltree=Arborele functiei introduse
+buton_d1=Derivata intai
+buton_d1tree=Arborele primei derivate
+buton_d2=Derivata a doua
+buton_d2tree=Arborele derivatei a doua
+buton_modifica=Modifica
+buton_exit=Iesire

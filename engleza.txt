@@ -1,0 +1,13 @@
+titlu=Application for Derivative of Functions
+instructiuni=Enter the function below, then press 'Confirm'.
+buton_confirm=Confirm
+buton_inapoi=Go Back
+buton_limba=Change Language
+buton_postfix=Postfixed Form
+buton_originaltree=Tree of Original Function
+buton_d1=First Derivative
+buton_d1tree=Tree of the First Derivative
+buton_d2=Second Derivative
+buton_d2tree=Tree of the Second Derivative
+buton_modifica=Modify
+buton_exit=Exit

@@ -1,0 +1,13 @@
+titlu=Application pour la dérivation de fonctions
+instructiuni=Entrez la fonction ci-dessous, puis appuyez sur 'Confirmer'.
+buton_confirm=Confirmer
+buton_inapoi=Retour
+buton_limba=Changer de langue
+buton_postfix=Forme postfixée
+buton_originaltree=Arbre de la fonction saisie
+buton_d1=Première dérivée
+buton_d1tree=Arbre de la première dérivée
+buton_d2=Deuxième dérivée
+buton_d2tree=Arbre de la deuxième dérivée
+buton_modifica=Modifier
+buton_exit=Quitter

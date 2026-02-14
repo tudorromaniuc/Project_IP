@@ -1,0 +1,13 @@
+titlu=Aplicación para la derivada de funciones
+instructiuni=Introduzca la función a continuación, luego presione 'Confirmar'.
+buton_confirm=Confirmar
+buton_inapoi=Atrás
+buton_limba=Cambiar Idioma
+buton_postfix=Postfijo
+buton_originaltree=Árbol Original
+buton_d1=Primera Derivada
+buton_d1tree=Árbol de la Primera Derivada
+buton_d2=Segunda Derivada
+buton_d2tree=Árbol de la Segunda Derivada
+buton_modifica=Modificar
+buton_exit=Salir
